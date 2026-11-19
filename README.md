@@ -23,16 +23,6 @@ A Python-based face recognition system that identifies registered employees usin
 7. Identify employees or mark them as unknown.
 8. Save recognition details and timestamps in JSON.
 
-## Project Structure
-
-```text
-backend/
-├── face.py
-├── known_faces/
-│   ├── Pranathi.jpg
-│   └── employee.jpg
-└── attendance_logs/
-    └── recognition.json
 ```
 
 ## Installation
